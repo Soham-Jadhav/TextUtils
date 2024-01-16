@@ -2,7 +2,7 @@
 
 TextUtils, a dynamic text editing website crafted with React JS, empowers users with a suite of tools for manipulating text. From formatting and analyzing to transforming case and removing extra spaces, this responsive platform offers a seamless editing experience. Harness the efficiency of React to navigate effortlessly through features, making text manipulation a breeze on TextUtils.
 
-You can visit the website here: \<To be Updated...\>
+You can visit the website here: https://sj21031-textutils.netlify.app/ 
 
 ---
 
